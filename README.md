@@ -49,46 +49,34 @@ From prototype to production, with a bias toward useful, measurable software.
 
 ---
 
-## 🏗️ What I'm building
+## 🔨 Currently working on
 
-```text
-                               gODtECH
-                                  │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-          PRODUCTS             SYSTEMS             RESEARCH
-             │                    │                    │
-      ┌──────┼──────┐        ┌────┼────┐         ┌─────┼─────┐
-      │      │      │        │         │         │           │
-    SAYRR  TechTrack  MortgageOps   ABE Ops   Cloud Lab   Dev Tools
-      │      │      │        │         │         │           │
-      └──────┴──────┴────────┴─────────┴─────────┴───────────┘
-```
+These are the projects receiving active attention right now.
 
-<details open>
-<summary><strong>🚀 Current product portfolio</strong></summary>
-
-| Product | What it does | Stage |
+| Project | Focus | Stage |
 | --- | --- | --- |
 | 🎙️ **[SAYRR](https://github.com/gODtECH-Ctl-Create/SAYRR)** | Voice-first input layer that turns speech into clean text wherever you type | Building |
-| 🏗️ **[Proqurement](https://github.com/gODtECH-Ctl-Create/proqurement)** | Discovery-first construction procurement and market intelligence platform | Building |
-| 🏦 **[MortgageOps](https://github.com/gODtECH-Ctl-Create/MortgageOps)** | Mortgage operations, credit, financial control, and case-management platform | Building |
-| 🎓 **[TechTrack](https://github.com/gODtECH-Ctl-Create/techtrack-chi)** | Learning, bootcamp, internship, and career-development platform | Building |
-| 📣 **[NanoClick](https://github.com/gODtECH-Ctl-Create/nanoclick-platform)** | Shared platform for click workers and nano-influencer campaign operations | Building |
-| 🏢 **[ABE TechLab Operations](https://github.com/gODtECH-Ctl-Create/ABE-TechLab-Operations)** | Internal operating system for CRM, research, outreach, content, analytics, and AI-assisted operations | Internal |
+| 🏦 **[MortgageOps](https://github.com/gODtECH-Ctl-Create/MortgageOps)** | Mortgage operations, credit, financial control, and case management | Building |
+| 🎓 **[TechTrack](https://github.com/gODtECH-Ctl-Create/techtrack-chi)** | Learning, bootcamp, internship, and career development platform | Building |
+| 🧠 **[Lead Engine](https://github.com/gODtECH-Ctl-Create/lead-engine)** | Recruitment intelligence for discovering, verifying, and organizing hiring-market data | Building |
+| 🧭 **[ABE TechLab Operations](https://github.com/gODtECH-Ctl-Create/ABE-TechLab-Operations)** | Internal operating system for CRM, research, outreach, content, analytics, and AI-assisted operations | Internal |
+| ☁️ **[Cloud Infrastructure Platform](https://github.com/gODtECH-Ctl-Create/Cloud-Infrastructure-Platform)** | Infrastructure laboratory for building a cloud platform from first principles | Building |
+| ♻️ **Waste2Work** | Workspace, operations, and time-billing platform direction | Building |
+| ✉️ **[ABEmail Mail](https://github.com/gODtECH-Ctl-Create/ABEmail-Mail)** | Business email workspace and managed-domain mail infrastructure | Building |
 
-</details>
+---
 
-<details>
-<summary><strong>🔬 Infrastructure & experiments</strong></summary>
+## 🚀 Products & selected work
 
-- ☁️ **[Cloud Infrastructure Platform](https://github.com/gODtECH-Ctl-Create/Cloud-Infrastructure-Platform)** — building a cloud laboratory from first principles.
-- 🛡️ **[snare](https://github.com/gODtECH-Ctl-Create/snare)** — repository-focused supply-chain threat detection and remediation tooling.
-- 📊 **[METRICS](https://github.com/gODtECH-Ctl-Create/METRICS)** — GitHub activity and engineering metrics exploration.
-- ♻️ **[Waste2Work](https://github.com/gODtECH-Ctl-Create/Waste2Work)** — centralized multi-branch workspace and time-billing system.
-- 🧪 **[ASSURERANCE](https://github.com/gODtECH-Ctl-Create/ASSURERANCE)** — archive of product concepts, architecture sketches, and engineering experiments.
-
-</details>
+| Product / project | What it is |
+| --- | --- |
+| 🏗️ **[Proqurement](https://github.com/gODtECH-Ctl-Create/proqurement)** | Discovery-first construction procurement and market intelligence platform |
+| 🏥 **OHealth+** | Healthcare technology platform and digital healthcare workflows |
+| 🏫 **Cyfamod SMS** | School management system for students, classes, attendance, results, fees, staff, and communication |
+| 🧠 **Vertica** | Recruitment and product workflow platform |
+| 🧪 **ABE TechLab** | Product studio and technology lab for software, systems, and experiments |
+| ♻️ **Waste2Light** | Renewable-energy, circular-economy, and practical innovation platform |
+| 🍽️ **Lucid** | Legacy restaurant Point of Sale (POS) and operations product experiment |
 
 ---
 
@@ -144,16 +132,19 @@ That means:
 
 ---
 
-## 🗺️ Current focus
+## 🗺️ Current direction
 
 ```text
 NOW
 ├── Product architecture and delivery
-├── AI-assisted internal operations
 ├── Voice-first interfaces with SAYRR
 ├── Financial workflow systems with MortgageOps
-├── Construction procurement intelligence with Proqurement
-└── Cloud infrastructure foundations
+├── Learning and career infrastructure with TechTrack
+├── Recruitment intelligence with Lead Engine
+├── AI-assisted internal operations with ABE TechLab Operations
+├── Cloud infrastructure foundations
+├── Waste2Work platform development
+└── Business email infrastructure with ABEmail Mail
 
 NEXT
 ├── Production hardening
