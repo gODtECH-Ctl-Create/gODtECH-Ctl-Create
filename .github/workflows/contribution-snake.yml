@@ -7,6 +7,7 @@ on:
     paths:
       - ".github/workflows/contribution-snake.yml"
       - "scripts/generate_readme_gifs.py"
+      - "scripts/generate_contribution_heatmap.py"
   schedule:
     - cron: "17 0 * * *"
   workflow_dispatch:
@@ -30,7 +31,9 @@ jobs:
         run: python -m pip install --upgrade Pillow
 
       - name: Generate README GIF media
-        run: python scripts/generate_readme_gifs.py
+        run: |
+          python scripts/generate_readme_gifs.py
+          python scripts/generate_contribution_heatmap.py
 
       - name: Commit generated media
         run: |
