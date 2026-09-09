@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">gODtECH technology stream</title>
+  <desc id="desc">Animated technology stream representing the stack used across products and systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#080b12"/><stop offset=".5" stop-color="#0f1727"/><stop offset="1" stop-color="#080b12"/></linearGradient>
+    <linearGradient id="flow" x1="0" x2="1"><stop stop-color="#a78bfa" stop-opacity="0"/><stop offset=".25" stop-color="#a78bfa"/><stop offset=".5" stop-color="#38bdf8"/><stop offset=".75" stop-color="#22c55e"/><stop offset="1" stop-color="#22c55e" stop-opacity="0"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}
+      .dash{stroke-dasharray:8 13;animation:dash 4s linear infinite}
+      .float{animation:f 4.4s ease-in-out infinite}
+      .float2{animation:f2 5.2s ease-in-out infinite}
+      .blink{animation:b 2s ease-in-out infinite}
+      @keyframes dash{to{stroke-dashoffset:-63}}
+      @keyframes f{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+      @keyframes f2{0%,100%{transform:translateY(0)}50%{transform:translateY(5px)}}
+      @keyframes b{0%,100%{opacity:.3}50%{opacity:1}}
+    </style>
+  </defs>
+  <rect width="1200" height="190" rx="20" fill="url(#bg)"/>
+  <text x="42" y="34" fill="#64748b" font-size="10" letter-spacing="3" class="m">TECHNOLOGY STREAM / BUILD SURFACE</text>
+  <text x="42" y="60" fill="#f8fafc" font-size="20" font-weight="700" class="m">The stack changes. The engineering principles don't.</text>
+
+  <path d="M45 106 H1155" stroke="#263246" stroke-width="4"/>
+  <path class="dash" d="M45 106 H1155" stroke="url(#flow)" stroke-width="3" filter="url(#glow)"/>
+  <circle cx="118" cy="106" r="5" fill="#a78bfa" class="blink" filter="url(#glow)"/>
+  <circle cx="1070" cy="106" r="5" fill="#22c55e" class="blink" filter="url(#glow)"/>
+
+  <g class="float">
+    <g transform="translate(55 84)"><rect width="118" height="44" rx="12" fill="#111827" stroke="#a78bfa"/><text x="14" y="27" fill="#f8fafc" font-size="12" class="m">TypeScript</text></g>
+    <g transform="translate(198 84)"><rect width="105" height="44" rx="12" fill="#111827" stroke="#38bdf8"/><text x="15" y="27" fill="#f8fafc" font-size="12" class="m">React</text></g>
+    <g transform="translate(328 84)"><rect width="108" height="44" rx="12" fill="#111827" stroke="#38bdf8"/><text x="15" y="27" fill="#f8fafc" font-size="12" class="m">Next.js</text></g>
+    <g transform="translate(461 84)"><rect width="115" height="44" rx="12" fill="#111827" stroke="#22c55e"/><text x="15" y="27" fill="#f8fafc" font-size="12" class="m">Node.js</text></g>
+    <g transform="translate(602 84)"><rect width="120" height="44" rx="12" fill="#111827" stroke="#22c55e"/><text x="15" y="27" fill="#f8fafc" font-size="12" class="m">PostgreSQL</text></g>
+    <g transform="translate(748 84)"><rect width="112" height="44" rx="12" fill="#111827" stroke="#38bdf8"/><text x="15" y="27" fill="#f8fafc" font-size="12" class="m">Supabase</text></g>
+    <g transform="translate(885 84)"><rect width="108" height="44" rx="12" fill="#111827" stroke="#a78bfa"/><text x="15" y="27" fill="#f8fafc" font-size="12" class="m">Docker</text></g>
+    <g transform="translate(1018 84)"><rect width="122" height="44" rx="12" fill="#111827" stroke="#f59e0b"/><text x="15" y="27" fill="#f8fafc" font-size="12" class="m">GitHub Actions</text></g>
+  </g>
+
+  <g class="float2" opacity=".5">
+    <circle cx="120" cy="147" r="2" fill="#a78bfa"/><circle cx="265" cy="147" r="2" fill="#38bdf8"/><circle cx="405" cy="147" r="2" fill="#22c55e"/><circle cx="545" cy="147" r="2" fill="#f59e0b"/><circle cx="690" cy="147" r="2" fill="#38bdf8"/><circle cx="835" cy="147" r="2" fill="#a78bfa"/><circle cx="975" cy="147" r="2" fill="#22c55e"/>
+  </g>
+  <text x="42" y="170" fill="#475569" font-size="9" class="m">frontend · backend · data · infrastructure · automation · product design · artificial intelligence</text>
+</svg>
