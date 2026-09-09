@@ -1,6 +1,12 @@
-name: Refresh contribution animation
+name: Refresh README media
 
 on:
+  push:
+    branches:
+      - "**"
+    paths:
+      - ".github/workflows/contribution-snake.yml"
+      - "scripts/generate_readme_gifs.py"
   schedule:
     - cron: "17 0 * * *"
   workflow_dispatch:
@@ -9,28 +15,31 @@ permissions:
   contents: write
 
 jobs:
-  snake:
+  media:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          github_user_name: gODtECH-Ctl-Create
-          outputs: |
-            assets/contributions/github-contribution-grid-snake.svg
-            assets/contributions/github-contribution-grid-snake-dark.svg?palette=github-dark
+          python-version: "3.12"
 
-      - name: Commit refreshed animation
+      - name: Install image generator
+        run: python -m pip install --upgrade Pillow
+
+      - name: Generate README GIF media
+        run: python scripts/generate_readme_gifs.py
+
+      - name: Commit generated media
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/contributions
+          git add assets/animated/*.gif
           if git diff --cached --quiet; then
-            echo "No contribution animation changes."
+            echo "README media is already up to date."
             exit 0
           fi
-          git commit -m "chore: refresh contribution animation"
+          git commit -m "chore: refresh README animation media"
           git push
