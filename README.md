@@ -123,31 +123,19 @@ That means real persisted data, measurable system state, documented architecture
 
 ### Real contribution data. Multiple visual layers. No fabricated activity.
 
-The local heatmap animation is generated from this GitHub account's public contribution history and refreshed automatically by GitHub Actions.
+The animation below is generated from this GitHub account's public contribution history and refreshed automatically by GitHub Actions.
 
 </div>
-
-### 01 · Contribution heatmap scan
 
 <div align="center">
 <img src="./assets/animated/contribution-heatmap.gif" width="100%" alt="Animated GitHub contribution heatmap">
 </div>
 
-### 02 · Contribution rhythm
+### What the heatmap shows
 
-<div align="center">
-<img src="./assets/animated/contribution-pulse.gif" width="100%" alt="Animated weekly contribution pulse">
-</div>
+**Calendar geometry** · **daily intensity** · **weekly rhythm** · **animated scan** · **contribution total**
 
-### 03 · Contribution load
-
-<div align="center">
-<img src="./assets/animated/contribution-bars.gif" width="100%" alt="Animated contribution intensity bars">
-</div>
-
-### 04 · GitHub profile signal
-
-The contribution visuals above are repository-hosted media, so the profile does not depend on a third-party chart renderer to display its core activity section.
+The calendar uses a GitHub-style Sunday-to-Saturday layout, with the scan moving across the contribution columns. The underlying activity is pulled from the public contribution history when the scheduled media refresh runs.
 
 ---
 
@@ -226,9 +214,5 @@ I'm interested in conversations around **products, technology, systems, Artifici
 ### Built with curiosity. Shipped with intent.
 
 _Keep building things that are useful._
-
-<p>
-<img src="./assets/animated/footer.gif" width="100%" alt="Animated gODtECH footer">
-</p>
 
 </div>
