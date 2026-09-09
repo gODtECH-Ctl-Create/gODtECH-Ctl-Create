@@ -9,17 +9,15 @@
 </p>
 
 <p>
-  <a href="https://github.com/gODtECH-Ctl-Create"><img src="https://img.shields.io/badge/GitHub-gODtECH--Ctl--Create-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/ayo-richard-abe/"><img src="https://img.shields.io/badge/LinkedIn-Ayo%20Richard%20Abe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/gODtECH-Ctl-Create?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-7c3aed?style=for-the-badge" alt="Projects"></a>
+  <a href="https://github.com/gODtECH-Ctl-Create">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/ayo-richard-abe/">LinkedIn</a> ·
+  <a href="https://github.com/gODtECH-Ctl-Create?tab=repositories">Projects</a>
 </p>
 
 </div>
 
 <div align="center">
-
-<img src="./assets/animated/gotek-system.gif" width="100%" alt="Animated gODtECH systems map">
-
+<img src="./assets/animated/gotek-system.gif" width="100%" alt="Animated gODtECH product systems map">
 </div>
 
 ---
@@ -55,12 +53,10 @@ From prototype to production, with a bias toward useful, measurable software.
 
 ---
 
-## 🔨 Currently working on
+## 🔨 Currently building
 
 <div align="center">
-
 <img src="./assets/animated/project-orbit.gif" width="100%" alt="Animated orbit of active projects">
-
 </div>
 
 | Project | Focus | Stage |
@@ -93,45 +89,31 @@ From prototype to production, with a bias toward useful, measurable software.
 ## 🔁 The build loop
 
 <div align="center">
-
 <img src="./assets/animated/build-loop.gif" width="100%" alt="Animated product building loop">
-
 </div>
+
+> **Problem → Product → System → Evidence → Iteration**
 
 I care about the difference between something that **looks finished** and something that **actually works**.
 
-That means:
-
-- clear product requirements before unnecessary complexity
-- real persisted data instead of fake interface behaviour
-- measurable system state instead of assumptions
-- documented architecture before scale
-- security, privacy, and reliability as product concerns
-- small validated steps that can grow into production systems
+That means real persisted data, measurable system state, documented architecture, security, reliability, and small validated steps that can grow into production systems.
 
 ---
 
 ## 🛠️ Technology landscape
 
 <div align="center">
-
 <img src="./assets/animated/tech-stream.gif" width="100%" alt="Animated technology stream">
-
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,supabase,tailwind,git,github,vercel,figma,docker,rust" alt="Technology stack">
-</p>
-
-<table>
-<tr><th>Area</th><th>Tools & technologies</th></tr>
-<tr><td>Frontend</td><td>React, Next.js, TanStack, TypeScript, Tailwind CSS</td></tr>
-<tr><td>Backend</td><td>Node.js, Python, FastAPI, NestJS</td></tr>
-<tr><td>Data</td><td>PostgreSQL, Supabase, MongoDB, SQLite</td></tr>
-<tr><td>Infrastructure</td><td>Vercel, Docker, GitHub Actions, libvirt, virtual machines</td></tr>
-<tr><td>Product & design</td><td>Figma, product specifications, system architecture, UX flows</td></tr>
-<tr><td>Artificial Intelligence</td><td>AI-assisted workflows, research agents, content systems, intelligent operations</td></tr>
-</table>
+| Area | Tools & technologies |
+| --- | --- |
+| Frontend | React, Next.js, TanStack, TypeScript, Tailwind CSS |
+| Backend | Node.js, Python, FastAPI, NestJS |
+| Data | PostgreSQL, Supabase, MongoDB, SQLite |
+| Infrastructure | Vercel, Docker, GitHub Actions, libvirt, virtual machines |
+| Product & design | Figma, product specifications, system architecture, UX flows |
+| Artificial Intelligence | AI-assisted workflows, research agents, content systems, intelligent operations |
 
 ---
 
@@ -141,56 +123,31 @@ That means:
 
 ### Real contribution data. Multiple visual layers. No fabricated activity.
 
-The primary heatmap below is generated from the public GitHub contribution history for this account and is refreshed automatically.
+The local heatmap animation is generated from this GitHub account's public contribution history and refreshed automatically by GitHub Actions.
 
 </div>
 
 ### 01 · Contribution heatmap scan
 
 <div align="center">
-
 <img src="./assets/animated/contribution-heatmap.gif" width="100%" alt="Animated GitHub contribution heatmap">
-
 </div>
 
-### 02 · Full-year contribution matrix
+### 02 · Contribution rhythm
 
 <div align="center">
-
-<img src="https://ghchart.xqsit94.in/dark:38bdf8/gODtECH-Ctl-Create" width="100%" alt="GitHub contribution calendar for gODtECH-Ctl-Create">
-
+<img src="./assets/animated/contribution-pulse.gif" width="100%" alt="Animated weekly contribution pulse">
 </div>
 
-### 03 · Activity pulse
+### 03 · Contribution load
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gODtECH-Ctl-Create&theme=react-dark&hide_border=true&area=true&custom_title=gODtECH%20activity%20pulse" width="100%" alt="GitHub activity pulse graph">
-
+<img src="./assets/animated/contribution-bars.gif" width="100%" alt="Animated contribution intensity bars">
 </div>
 
-### 04 · GitHub energy readout
+### 04 · GitHub profile signal
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gODtECH-Ctl-Create&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark" height="180" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gODtECH-Ctl-Create&layout=compact&hide_border=true&langs_count=8&theme=github_dark" height="180" alt="Top languages">
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gODtECH-Ctl-Create&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="76%" alt="GitHub contribution streak">
-
-</div>
-
-### 05 · Achievement constellation
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gODtECH-Ctl-Create&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" width="100%" alt="GitHub achievement trophies">
-
-</div>
+The contribution visuals above are repository-hosted media, so the profile does not depend on a third-party chart renderer to display its core activity section.
 
 ---
 
@@ -258,8 +215,7 @@ I'm interested in conversations around **products, technology, systems, Artifici
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gODtECH-Ctl-Create)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayo-richard-abe/)
+[GitHub](https://github.com/gODtECH-Ctl-Create) · [LinkedIn](https://www.linkedin.com/in/ayo-richard-abe/)
 
 </div>
 
@@ -271,8 +227,8 @@ I'm interested in conversations around **products, technology, systems, Artifici
 
 _Keep building things that are useful._
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&text=gODtECH&fontSize=28&fontColor=ffffff&animation=fadeIn&color=0:7c3aed,50:38bdf8,100:22c55e" width="100%" alt="Profile footer">
+<p>
+<img src="./assets/animated/footer.gif" width="100%" alt="Animated gODtECH footer">
+</p>
 
 </div>
