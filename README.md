@@ -4,15 +4,21 @@
 
 ### **gODtECH**
 
-**Product Manager · Product Builder · Systems Thinker**
-
-I turn ideas into products, internal systems, and practical technology.
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Product+Manager+%C2%B7+Product+Builder+%C2%B7+Systems+Thinker;Turning+ideas+into+products%2C+systems%2C+and+evidence;Building+useful+technology+for+Nigeria%2C+Africa%2C+and+the+real+world" alt="Animated introduction">
+</p>
 
 <p>
   <a href="https://github.com/gODtECH-Ctl-Create"><img src="https://img.shields.io/badge/GitHub-gODtECH--Ctl--Create-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/ayo-richard-abe/"><img src="https://img.shields.io/badge/LinkedIn-Ayo%20Richard%20Abe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/gODtECH-Ctl-Create?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-7c3aed?style=for-the-badge" alt="Projects"></a>
 </p>
+
+</div>
+
+<div align="center">
+
+<img src="assets/animated/gotek-system.svg" width="100%" alt="Animated gODtECH systems map">
 
 </div>
 
@@ -51,7 +57,11 @@ From prototype to production, with a bias toward useful, measurable software.
 
 ## 🔨 Currently working on
 
-These are the projects receiving active attention right now.
+<div align="center">
+
+<img src="assets/animated/project-orbit.svg" width="100%" alt="Animated orbit of active projects">
+
+</div>
 
 | Project | Focus | Stage |
 | --- | --- | --- |
@@ -80,9 +90,13 @@ These are the projects receiving active attention right now.
 
 ---
 
-## 🧩 How I think about building
+## 🔁 The build loop
 
-> **Problem → Product → System → Evidence → Iteration**
+<div align="center">
+
+<img src="assets/animated/build-loop.svg" width="100%" alt="Animated product building loop">
+
+</div>
 
 I care about the difference between something that **looks finished** and something that **actually works**.
 
@@ -98,6 +112,12 @@ That means:
 ---
 
 ## 🛠️ Technology landscape
+
+<div align="center">
+
+<img src="assets/animated/tech-stream.svg" width="100%" alt="Animated technology stream">
+
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,supabase,tailwind,git,github,vercel,figma,docker,rust" alt="Technology stack">
@@ -115,18 +135,64 @@ That means:
 
 ---
 
-## 📈 GitHub at a glance
+# 🔥 Contribution Heatmap Lab
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gODtECH-Ctl-Create&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gODtECH-Ctl-Create&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages">
+### One contribution calendar. Multiple visual layers.
+
+The graphs below are tied to real GitHub activity. The custom contribution animation is regenerated automatically by GitHub Actions.
+
+</div>
+
+### 01 · Full-year activity matrix
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gODtECH-Ctl-Create&theme=github_dark" width="100%" alt="GitHub profile contribution matrix">
+
+</div>
+
+### 02 · Contribution pulse graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gODtECH-Ctl-Create&theme=react-dark&hide_border=true&area=true&custom_title=gODtECH%20activity%20pulse" width="100%" alt="GitHub activity pulse graph">
+
+</div>
+
+### 03 · The contribution matrix, animated
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/contributions/github-contribution-grid-snake.svg">
+  <img src="assets/contributions/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake graph">
+</picture>
+
+</div>
+
+### 04 · GitHub energy readout
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gODtECH-Ctl-Create&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark" height="180" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gODtECH-Ctl-Create&layout=compact&hide_border=true&langs_count=8&theme=github_dark" height="180" alt="Top languages">
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gODtECH-Ctl-Create&hide_border=true" alt="GitHub contribution streak">
+<img src="https://streak-stats.demolab.com?user=gODtECH-Ctl-Create&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="76%" alt="GitHub contribution streak">
+
+</div>
+
+### 05 · Achievement constellation
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gODtECH-Ctl-Create&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" width="100%" alt="GitHub achievement trophies">
 
 </div>
 
@@ -208,5 +274,9 @@ I'm interested in conversations around **products, technology, systems, Artifici
 ### Built with curiosity. Shipped with intent.
 
 _Keep building things that are useful._
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&text=gODtECH&fontSize=28&fontColor=ffffff&animation=fadeIn&color=0:7c3aed,50:38bdf8,100:22c55e" width="100%" alt="Animated footer wave">
 
 </div>
