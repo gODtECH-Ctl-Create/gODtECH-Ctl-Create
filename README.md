@@ -5,7 +5,7 @@
 ### **gODtECH**
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Product+Manager+%C2%B7+Product+Builder+%C2%B7+Systems+Thinker;Turning+ideas+into+products%2C+systems%2C+and+evidence;Building+useful+technology+for+Nigeria%2C+Africa%2C+and+the+real+world" alt="Animated introduction">
+  <img src="./assets/animated/intro.gif" width="100%" alt="Animated gODtECH profile introduction">
 </p>
 
 <p>
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="assets/animated/gotek-system.svg" width="100%" alt="Animated gODtECH systems map">
+<img src="./assets/animated/gotek-system.gif" width="100%" alt="Animated gODtECH systems map">
 
 </div>
 
@@ -59,7 +59,7 @@ From prototype to production, with a bias toward useful, measurable software.
 
 <div align="center">
 
-<img src="assets/animated/project-orbit.svg" width="100%" alt="Animated orbit of active projects">
+<img src="./assets/animated/project-orbit.gif" width="100%" alt="Animated orbit of active projects">
 
 </div>
 
@@ -69,7 +69,7 @@ From prototype to production, with a bias toward useful, measurable software.
 | 🏦 **[MortgageOps](https://github.com/gODtECH-Ctl-Create/MortgageOps)** | Mortgage operations, credit, financial control, and case management | Building |
 | 🎓 **[TechTrack](https://github.com/gODtECH-Ctl-Create/techtrack-chi)** | Learning, bootcamp, internship, and career development platform | Building |
 | 🧠 **[Lead Engine](https://github.com/gODtECH-Ctl-Create/lead-engine)** | Recruitment intelligence for discovering, verifying, and organizing hiring-market data | Building |
-| 🧭 **[ABE TechLab Operations](https://github.com/gODtECH-Ctl-Create/ABE-TechLab-Operations)** | Internal operating system for CRM, research, outreach, content, analytics, and AI-assisted operations | Internal |
+| 🧭 **[ABE TechLab Operations](https://github.com/gODtECH-Ctl-Create/ABE-TechLab-Operations)** | Internal operating system for CRM, research, outreach, content, analytics, and Artificial Intelligence (AI)-assisted operations | Internal |
 | ☁️ **[Cloud Infrastructure Platform](https://github.com/gODtECH-Ctl-Create/Cloud-Infrastructure-Platform)** | Infrastructure laboratory for building a cloud platform from first principles | Building |
 | ♻️ **Waste2Work** | Workspace, operations, and time-billing platform direction | Building |
 | ✉️ **[ABEmail Mail](https://github.com/gODtECH-Ctl-Create/ABEmail-Mail)** | Business email workspace and managed-domain mail infrastructure | Building |
@@ -94,7 +94,7 @@ From prototype to production, with a bias toward useful, measurable software.
 
 <div align="center">
 
-<img src="assets/animated/build-loop.svg" width="100%" alt="Animated product building loop">
+<img src="./assets/animated/build-loop.gif" width="100%" alt="Animated product building loop">
 
 </div>
 
@@ -115,7 +115,7 @@ That means:
 
 <div align="center">
 
-<img src="assets/animated/tech-stream.svg" width="100%" alt="Animated technology stream">
+<img src="./assets/animated/tech-stream.gif" width="100%" alt="Animated technology stream">
 
 </div>
 
@@ -139,37 +139,33 @@ That means:
 
 <div align="center">
 
-### One contribution calendar. Multiple visual layers.
+### Real contribution data. Multiple visual layers. No fabricated activity.
 
-The graphs below are tied to real GitHub activity. The custom contribution animation is regenerated automatically by GitHub Actions.
+The primary heatmap below is generated from the public GitHub contribution history for this account and is refreshed automatically.
 
 </div>
 
-### 01 · Full-year activity matrix
+### 01 · Contribution heatmap scan
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gODtECH-Ctl-Create&theme=github_dark" width="100%" alt="GitHub profile contribution matrix">
+<img src="./assets/animated/contribution-heatmap.gif" width="100%" alt="Animated GitHub contribution heatmap">
 
 </div>
 
-### 02 · Contribution pulse graph
+### 02 · Full-year contribution matrix
+
+<div align="center">
+
+<img src="https://ghchart.xqsit94.in/dark:38bdf8/gODtECH-Ctl-Create" width="100%" alt="GitHub contribution calendar for gODtECH-Ctl-Create">
+
+</div>
+
+### 03 · Activity pulse
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gODtECH-Ctl-Create&theme=react-dark&hide_border=true&area=true&custom_title=gODtECH%20activity%20pulse" width="100%" alt="GitHub activity pulse graph">
-
-</div>
-
-### 03 · The contribution matrix, animated
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/contributions/github-contribution-grid-snake.svg">
-  <img src="assets/contributions/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake graph">
-</picture>
 
 </div>
 
@@ -277,6 +273,6 @@ _Keep building things that are useful._
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&text=gODtECH&fontSize=28&fontColor=ffffff&animation=fadeIn&color=0:7c3aed,50:38bdf8,100:22c55e" width="100%" alt="Animated footer wave">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&text=gODtECH&fontSize=28&fontColor=ffffff&animation=fadeIn&color=0:7c3aed,50:38bdf8,100:22c55e" width="100%" alt="Profile footer">
 
 </div>
