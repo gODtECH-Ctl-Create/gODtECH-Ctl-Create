@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">gODtECH systems in motion</title>
+  <desc id="desc">An animated systems map representing product, systems, artificial intelligence, evidence and iteration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07090f"/>
+      <stop offset="0.5" stop-color="#0d1320"/>
+      <stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#38bdf8" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#94a3b8" stroke-opacity=".06"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}
+      .fade{animation:fade 6s ease-in-out infinite}
+      .pulse{animation:pulse 2.8s ease-in-out infinite}
+      .float1{animation:float1 5s ease-in-out infinite}
+      .float2{animation:float2 6s ease-in-out infinite}
+      .scan{animation:scan 5.5s linear infinite}
+      .dash{stroke-dasharray:10 16;animation:dash 3s linear infinite}
+      .spin{transform-box:fill-box;transform-origin:center;animation:spin 18s linear infinite}
+      @keyframes fade{0%,100%{opacity:.35}50%{opacity:1}}
+      @keyframes pulse{0%,100%{opacity:.35;transform:scale(.92)}50%{opacity:1;transform:scale(1.08)}}
+      @keyframes float1{0%,100%{transform:translate(0,0)}50%{transform:translate(0,-8px)}}
+      @keyframes float2{0%,100%{transform:translate(0,0)}50%{transform:translate(0,7px)}}
+      @keyframes scan{0%{transform:translateY(-80px);opacity:0}15%{opacity:.7}85%{opacity:.7}100%{transform:translateY(400px);opacity:0}}
+      @keyframes dash{to{stroke-dashoffset:-52}}
+      @keyframes spin{to{transform:rotate(360deg)}}
+    </style>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+
+  <g opacity=".85">
+    <circle class="spin" cx="1030" cy="82" r="52" fill="none" stroke="#38bdf8" stroke-opacity=".12" stroke-width="1" stroke-dasharray="2 10"/>
+    <circle class="spin" cx="1030" cy="82" r="36" fill="none" stroke="#7c3aed" stroke-opacity=".18" stroke-width="1" stroke-dasharray="1 7"/>
+  </g>
+
+  <g class="scan" opacity=".65">
+    <rect x="0" y="0" width="1200" height="2" fill="url(#beam)" filter="url(#glow)"/>
+  </g>
+
+  <text x="58" y="58" fill="#64748b" font-size="12" letter-spacing="3" class="mono">GOTEK // PRODUCT SYSTEMS LAB</text>
+  <text x="58" y="108" fill="#f8fafc" font-size="38" font-weight="700" class="mono">SYSTEMS IN MOTION</text>
+  <text x="58" y="136" fill="#94a3b8" font-size="14" class="mono">ideas become products, products become systems, systems produce evidence</text>
+
+  <g transform="translate(58 184)">
+    <line x1="0" y1="28" x2="1050" y2="28" stroke="#334155" stroke-width="2"/>
+    <line class="dash" x1="0" y1="28" x2="1050" y2="28" stroke="#38bdf8" stroke-width="3" filter="url(#glow)"/>
+
+    <g class="float1">
+      <circle cx="30" cy="28" r="12" fill="#111827" stroke="#a78bfa" stroke-width="2"/>
+      <circle cx="30" cy="28" r="4" fill="#a78bfa" class="pulse"/>
+      <text x="0" y="68" fill="#f8fafc" font-size="12" class="mono">PRODUCT</text>
+      <text x="0" y="86" fill="#64748b" font-size="10" class="mono">problem → scope</text>
+    </g>
+
+    <g class="float2">
+      <circle cx="290" cy="28" r="12" fill="#111827" stroke="#38bdf8" stroke-width="2"/>
+      <circle cx="290" cy="28" r="4" fill="#38bdf8" class="pulse"/>
+      <text x="258" y="68" fill="#f8fafc" font-size="12" class="mono">SYSTEM</text>
+      <text x="258" y="86" fill="#64748b" font-size="10" class="mono">data → logic</text>
+    </g>
+
+    <g class="float1">
+      <circle cx="550" cy="28" r="12" fill="#111827" stroke="#22c55e" stroke-width="2"/>
+      <circle cx="550" cy="28" r="4" fill="#22c55e" class="pulse"/>
+      <text x="510" y="68" fill="#f8fafc" font-size="12" class="mono">AI / AUTOMATION</text>
+      <text x="510" y="86" fill="#64748b" font-size="10" class="mono">signals → leverage</text>
+    </g>
+
+    <g class="float2">
+      <circle cx="790" cy="28" r="12" fill="#111827" stroke="#f59e0b" stroke-width="2"/>
+      <circle cx="790" cy="28" r="4" fill="#f59e0b" class="pulse"/>
+      <text x="748" y="68" fill="#f8fafc" font-size="12" class="mono">EVIDENCE</text>
+      <text x="748" y="86" fill="#64748b" font-size="10" class="mono">measure → learn</text>
+    </g>
+
+    <g class="float1">
+      <circle cx="1035" cy="28" r="12" fill="#111827" stroke="#f472b6" stroke-width="2"/>
+      <circle cx="1035" cy="28" r="4" fill="#f472b6" class="pulse"/>
+      <text x="1006" y="68" fill="#f8fafc" font-size="12" class="mono">ITERATE</text>
+      <text x="1006" y="86" fill="#64748b" font-size="10" class="mono">ship → repeat</text>
+    </g>
+  </g>
+
+  <g opacity=".65">
+    <circle cx="914" cy="58" r="2" fill="#38bdf8" class="pulse"/>
+    <circle cx="950" cy="122" r="2" fill="#a78bfa" class="fade"/>
+    <circle cx="1098" cy="156" r="2" fill="#22c55e" class="pulse"/>
+    <circle cx="1148" cy="86" r="2" fill="#f59e0b" class="fade"/>
+  </g>
+</svg>
