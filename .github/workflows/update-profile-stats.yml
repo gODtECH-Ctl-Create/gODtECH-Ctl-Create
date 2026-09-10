@@ -1,0 +1,81 @@
+name: Update GitHub profile stats
+
+on:
+  schedule:
+    # Daily at 03:17 UTC (04:17 WAT)
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-profile-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub statistics card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true
+          path: stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&langs_count=8
+          path: top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Point README to repository-hosted cards
+        shell: bash
+        run: |
+          python <<'PY'
+          from pathlib import Path
+
+          readme = Path("README.md")
+          text = readme.read_text(encoding="utf-8")
+
+          text = text.replace(
+              'src="https://github-readme-stats.vercel.app/api?username=gODtECH-Ctl-Create&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"',
+              'src="./stats.svg"',
+          )
+          text = text.replace(
+              'src="https://github-readme-stats.vercel.app/api/top-langs/?username=gODtECH-Ctl-Create&layout=compact&hide_border=true&langs_count=8"',
+              'src="./top-langs.svg"',
+          )
+
+          readme.write_text(text, encoding="utf-8")
+          PY
+
+      - name: Commit refreshed cards
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md stats.svg top-langs.svg
+
+          if git diff --cached --quiet; then
+            echo "Profile cards are already up to date."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh GitHub profile stats"
+          git push
