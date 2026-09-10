@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/profile-hero.svg" alt="Ayo Richard Abe gODtECH profile hero" width="100%" />
+<img src="./assets/profile-hero.gif" alt="Ayo Richard Abe gODtECH profile hero" width="100%" />
 
 <p>
   <a href="https://godtech-ctl-create.github.io/Ayo-Richard-ABE/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-b7ff3c?style=for-the-badge&labelColor=11110f&color=b7ff3c" alt="Live portfolio" /></a>
