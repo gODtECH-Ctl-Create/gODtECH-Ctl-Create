@@ -82,6 +82,11 @@
         <text x="32" y="25" font-size="11" font-weight="700" fill="#11110F">Lead Eng.</text>
         <text x="18" y="51" font-size="8" fill="#6E7168">Recruitment</text>
       </g>
+      <g transform="translate(26 229)">
+        <rect width="808" height="20" rx="10" fill="#11110F" fill-opacity="0.045"/>
+        <circle cx="13" cy="10" r="3" fill="#8BDA16" class="live-dot"/>
+        <text x="25" y="13.5" font-size="8.5" font-weight="700" fill="#4A4D46">ABE TechLab Operations · internal operating system · LIVE</text>
+      </g>
     </g>
   </g>
 
