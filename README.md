@@ -221,8 +221,8 @@ This is also why so much of my work lives around **product specifications, archi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gODtECH-Ctl-Create&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gODtECH-Ctl-Create&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages">
+<img src="./stats.svg" height="165" alt="GitHub statistics">
+<img src="./top-langs.svg" height="165" alt="Top languages">
 
 </div>
 
