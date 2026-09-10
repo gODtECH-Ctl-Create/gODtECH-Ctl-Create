@@ -1,121 +1,223 @@
+<a name="readme-top"></a>
+
 <div align="center">
 
-# 👋🏽 Ayo Richard Abe
-
-### **gODtECH**
-
-**Product Manager · Product Builder · Systems Thinker**
-
-I turn ideas into products, internal systems, and practical technology.
+<img src="./assets/profile-hero.gif" alt="Ayo Richard Abe gODtECH profile hero" width="100%" />
 
 <p>
-  <a href="https://github.com/gODtECH-Ctl-Create"><img src="https://img.shields.io/badge/GitHub-gODtECH--Ctl--Create-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/ayo-richard-abe/"><img src="https://img.shields.io/badge/LinkedIn-Ayo%20Richard%20Abe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/gODtECH-Ctl-Create?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-7c3aed?style=for-the-badge" alt="Projects"></a>
+  <a href="https://godtech-ctl-create.github.io/Ayo-Richard-ABE/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-b7ff3c?style=for-the-badge&labelColor=11110f&color=b7ff3c" alt="Live portfolio" /></a>
+  <img src="https://img.shields.io/badge/LIVE_PRODUCTS-10-11110f?style=for-the-badge&labelColor=11110f&color=b7ff3c" alt="10 live products" />
+  <img src="https://img.shields.io/badge/DEV_BUILDS-2-11110f?style=for-the-badge&labelColor=11110f&color=8d91ff" alt="2 developer builds" />
+  <a href="https://www.linkedin.com/in/ayo-richard-abe/"><img src="https://img.shields.io/badge/LinkedIn-Ayo_Richard_Abe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+### Product Manager · Product Builder · Systems Thinker
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=700&color=B7FF3C&center=true&vCenter=true&width=1000&lines=I+build+products+that+make+difficult+work+feel+simpler.;Product+%E2%86%92+System+%E2%86%92+Evidence+%E2%86%92+Iteration;10+live+products+%7C+2+developer+systems+in+active+development;StackPilot+%7C+gODtECH+FORGE+%7C+AI-assisted+engineering" alt="Animated gODtECH profile focus" />
+
+<p>
+  <a href="#-project-control-board">Project board</a> ·
+  <a href="#-for-developers">For developers</a> ·
+  <a href="#-building-now">Building now</a> ·
+  <a href="#-technology-landscape">Technology</a> ·
+  <a href="#-github-signal">GitHub signal</a>
 </p>
 
 </div>
 
 ---
 
-## 🧭 About me
+## ⚡ The short version
 
-I work at the intersection of **product, technology, systems, and execution**.
+I’m **Ayo Richard Abe**, also building as **gODtECH**. I work where **product thinking, software engineering, systems design, AI-assisted development, and execution** meet.
 
-My focus is simple: understand the problem, design the system, build the product, test what is real, and keep improving it.
+I like difficult, messy problems: disconnected workflows, repetitive work, unclear product decisions, infrastructure friction, or ideas that need to become something real enough to test.
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 🧠 Product
-Product strategy, requirements, roadmaps, user flows, validation, delivery.
+### 🧭 Product
+
+Discovery, requirements, roadmaps, prioritization, user flows, validation, and delivery.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
 ### ⚙️ Systems
-Architecture, APIs, databases, integrations, automation, operational platforms.
+
+Architecture, APIs, data, automation, infrastructure, internal tools, and operational workflows.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 🚀 Building
-From prototype to production, with a bias toward useful, measurable software.
+### 🚀 Build
+
+Prototype quickly, prove what works, harden the system, ship, observe, and improve.
 
 </td>
 </tr>
 </table>
 
----
+```text
+PROBLEM
+   ↓
+UNDERSTAND
+   ↓
+DESIGN THE PRODUCT + SYSTEM
+   ↓
+BUILD → VERIFY → SHIP
+   ↓
+EVIDENCE → ITERATION
+```
 
-## 🔨 Currently working on
-
-These are the projects receiving active attention right now.
-
-| Project | Focus | Stage |
-| --- | --- | --- |
-| 🎙️ **[SAYRR](https://github.com/gODtECH-Ctl-Create/SAYRR)** | Voice-first input layer that turns speech into clean text wherever you type | Building |
-| 🏦 **[MortgageOps](https://github.com/gODtECH-Ctl-Create/MortgageOps)** | Mortgage operations, credit, financial control, and case management | Building |
-| 🎓 **[TechTrack](https://github.com/gODtECH-Ctl-Create/techtrack-chi)** | Learning, bootcamp, internship, and career development platform | Building |
-| 🧠 **[Lead Engine](https://github.com/gODtECH-Ctl-Create/lead-engine)** | Recruitment intelligence for discovering, verifying, and organizing hiring-market data | Building |
-| 🧭 **[ABE TechLab Operations](https://github.com/gODtECH-Ctl-Create/ABE-TechLab-Operations)** | Internal operating system for CRM, research, outreach, content, analytics, and AI-assisted operations | Internal |
-| ☁️ **[Cloud Infrastructure Platform](https://github.com/gODtECH-Ctl-Create/Cloud-Infrastructure-Platform)** | Infrastructure laboratory for building a cloud platform from first principles | Building |
-| ♻️ **Waste2Work** | Workspace, operations, and time-billing platform direction | Building |
-| ✉️ **[ABEmail Mail](https://github.com/gODtECH-Ctl-Create/ABEmail-Mail)** | Business email workspace and managed-domain mail infrastructure | Building |
+<a href="#readme-top">↑ back to top</a>
 
 ---
 
-## 🚀 Products & selected work
+## 🎛️ Project control board
 
-| Product / project | What it is |
-| --- | --- |
-| 🏗️ **[Proqurement](https://github.com/gODtECH-Ctl-Create/proqurement)** | Discovery-first construction procurement and market intelligence platform |
-| 🏥 **OHealth+** | Healthcare technology platform and digital healthcare workflows |
-| 🏫 **Cyfamod SMS** | School management system for students, classes, attendance, results, fees, staff, and communication |
-| 🧠 **Vertica** | Recruitment and product workflow platform |
-| 🧪 **ABE TechLab** | Product studio and technology lab for software, systems, and experiments |
-| ♻️ **Waste2Light** | Renewable-energy, circular-economy, and practical innovation platform |
-| 🍽️ **Lucid** | Legacy restaurant Point of Sale (POS) and operations product experiment |
+<div align="center">
+  <img src="./assets/project-control-board.svg" alt="gODtECH live project and developer build control board" width="100%" />
+</div>
+
+The portfolio is no longer one big list of experiments. Some products are **live and active**, while others are deliberately still in **building** mode.
+
+### 🟢 Live / active
+
+| Product | What it does | State |
+| --- | --- | :---: |
+| 🏗️ **[Proqurement](https://proqurement.onrender.com/)** | Construction supplier discovery, sourcing, comparison, and market intelligence | ![Live](https://img.shields.io/badge/LIVE-b7ff3c?style=flat-square&labelColor=11110f&color=b7ff3c) |
+| 🛡️ **[Snare](https://avioflagos.github.io/snare/)** | Repository-focused software supply-chain security scanning | ![Live](https://img.shields.io/badge/LIVE-b7ff3c?style=flat-square&labelColor=11110f&color=b7ff3c) |
+| 🏥 **[OHealth+](https://godtech-ctl-create.github.io/Ayo-Richard-ABE/projects.html#products)** | Healthcare workflows, professional tooling, bookings, APIs, and patient access | ![Live](https://img.shields.io/badge/LIVE-b7ff3c?style=flat-square&labelColor=11110f&color=b7ff3c) |
+| 🏫 **[Cyfamod SMS](https://github.com/gODtECH-Ctl-Create/cyfamod-sms-landing)** | School management for students, attendance, results, fees, staff, and communication | ![Live](https://img.shields.io/badge/LIVE-b7ff3c?style=flat-square&labelColor=11110f&color=b7ff3c) |
+| 🧩 **[Vettika](https://godtech-ctl-create.github.io/Ayo-Richard-ABE/projects.html#products)** | Product and collaboration workflow platform | ![Live](https://img.shields.io/badge/LIVE-b7ff3c?style=flat-square&labelColor=11110f&color=b7ff3c) |
+| 📣 **[NanoClick](https://github.com/gODtECH-Ctl-Create/nanoclick-platform)** | Campaign operations for task workers and nano-influencer workflows | ![Live](https://img.shields.io/badge/LIVE-b7ff3c?style=flat-square&labelColor=11110f&color=b7ff3c) |
+| ♻️ **[Waste2Light](https://waste2light.com)** | Renewable-energy, circular-economy, education, and practical innovation platform | ![Live](https://img.shields.io/badge/LIVE-b7ff3c?style=flat-square&labelColor=11110f&color=b7ff3c) |
+| ✉️ **[ABEmail Mail](https://github.com/gODtECH-Ctl-Create/ABEmail-Mail)** | Managed business email infrastructure around customer-owned domains | ![Live](https://img.shields.io/badge/LIVE-b7ff3c?style=flat-square&labelColor=11110f&color=b7ff3c) |
+| 🧠 **[Lead Engine](https://godtech-ctl-create.github.io/Ayo-Richard-ABE/projects.html#products)** | Recruitment intelligence for discovering, verifying, and organizing hiring-market data | ![Live](https://img.shields.io/badge/LIVE-b7ff3c?style=flat-square&labelColor=11110f&color=b7ff3c) |
+| 🧭 **[ABE TechLab Operations](https://github.com/gODtECH-Ctl-Create/ABE-TechLab-Operations)** | Operating system for CRM, research, outreach, content, analytics, GitHub, and AI-assisted operations | ![Live](https://img.shields.io/badge/LIVE-b7ff3c?style=flat-square&labelColor=11110f&color=b7ff3c) |
+
+> **Live** here means shipped or actively operating. It does not mean the product has stopped evolving.
+
+---
+
+## 🧑‍💻 For developers
+
+Two of the projects receiving the most deliberate engineering attention are developer-facing systems.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 [StackPilot](https://github.com/gODtECH-Ctl-Create/StackPilot)
+
+<img src="https://img.shields.io/badge/STATE-BUILDING-8d91ff?style=flat-square&labelColor=11110f" alt="StackPilot building" />
+<img src="https://img.shields.io/badge/CORE-RUST-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+
+**Opinionated project scaffolding for production-minded repositories.**
+
+StackPilot gives developers a deliberate golden path instead of hundreds of arbitrary combinations. Its validated backend paths currently cover **Rust/Axum, Go/Chi, TypeScript/NestJS, Python/FastAPI, Java/Spring Boot, and C#/ASP.NET Core**.
+
+```text
+LANGUAGE
+   ↓
+GOLDEN PATH
+   ↓
+DOCKER + CI + TERRAFORM
+   ↓
+READY-TO-BUILD REPOSITORY
+```
+
+[Explore StackPilot →](https://github.com/gODtECH-Ctl-Create/StackPilot)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚒️ [gODtECH FORGE](https://github.com/gODtECH-Ctl-Create/gODtECH-FORGE)
+
+<img src="https://img.shields.io/badge/STATE-BUILDING-7c3aed?style=flat-square&labelColor=11110f" alt="FORGE building" />
+<img src="https://img.shields.io/badge/AI-ENGINEERING-b7ff3c?style=flat-square&labelColor=11110f&color=b7ff3c" alt="AI engineering" />
+
+**Framework for Orchestrated Reasoning, Governance & Engineering.**
+
+FORGE sits between human product intent and AI execution so an agent does not jump directly from a request into code. It structures **research, product reasoning, architecture, design, engineering, security, verification, and deployment**.
+
+```text
+HUMAN INTENT
+      ↓
+REASON → DESIGN → ENGINEER
+      ↓
+VERIFY → SHIP
+```
+
+[Explore gODtECH FORGE →](https://github.com/gODtECH-Ctl-Create/gODtECH-FORGE)
+
+</td>
+</tr>
+</table>
+
+Together they explore two sides of the same problem: **FORGE improves the intelligence around building; StackPilot reduces the mechanical setup required to start building.**
+
+<a href="#readme-top">↑ back to top</a>
+
+---
+
+## 🔨 Building now
+
+The rest of the active build queue is intentionally separate from the shipped board.
+
+| Project | Current direction | State |
+| --- | --- | :---: |
+| 🎙️ **[SAYRR](https://github.com/gODtECH-Ctl-Create/SAYRR)** | Voice-first input that turns natural speech into usable text wherever you type | ![Building](https://img.shields.io/badge/BUILDING-30312b?style=flat-square&labelColor=11110f&color=6f7269) |
+| 🏦 **[MortgageOps](https://github.com/gODtECH-Ctl-Create/MortgageOps)** | Mortgage operations, credit, underwriting, servicing, risk, and case management | ![Building](https://img.shields.io/badge/BUILDING-30312b?style=flat-square&labelColor=11110f&color=6f7269) |
+| 🎓 **TechTrack** | Learning, bootcamps, internships, cohorts, progress, and certificates | ![Building](https://img.shields.io/badge/BUILDING-30312b?style=flat-square&labelColor=11110f&color=6f7269) |
+| ☁️ **[Cloud Infrastructure Platform](https://github.com/gODtECH-Ctl-Create/Cloud-Infrastructure-Platform)** | Infrastructure laboratory exploring compute, lifecycle, networking, storage, and control-plane foundations | ![Building](https://img.shields.io/badge/BUILDING-30312b?style=flat-square&labelColor=11110f&color=6f7269) |
+| ♻️ **Waste2Work** | Workspace operations and time-billing platform direction | ![Building](https://img.shields.io/badge/BUILDING-30312b?style=flat-square&labelColor=11110f&color=6f7269) |
+| 🍽️ **[Lucid](https://github.com/gODtECH-Ctl-Create/lucid)** | Legacy restaurant POS and operations experiment retained as part of the product history | ![Building](https://img.shields.io/badge/BUILDING-30312b?style=flat-square&labelColor=11110f&color=6f7269) |
 
 ---
 
 ## 🧩 How I think about building
 
-> **Problem → Product → System → Evidence → Iteration**
+> **Build the right thing, build it deliberately, and prove that it works.**
 
-I care about the difference between something that **looks finished** and something that **actually works**.
+I care about the difference between something that **looks finished** and something that **actually works**. My default is to reduce uncertainty before adding complexity.
 
-That means:
+```text
+01  Understand the real problem
+02  Define the smallest useful product
+03  Make architecture and UX decisions explicit
+04  Build with real state, not fake behaviour
+05  Test security, reliability and failure paths
+06  Ship something observable
+07  Learn from evidence and iterate
+```
 
-- clear product requirements before unnecessary complexity
-- real persisted data instead of fake interface behaviour
-- measurable system state instead of assumptions
-- documented architecture before scale
-- security, privacy, and reliability as product concerns
-- small validated steps that can grow into production systems
+This is also why so much of my work lives around **product specifications, architecture, automation, developer experience, validation, and operational systems** rather than just interface code.
 
 ---
 
 ## 🛠️ Technology landscape
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,supabase,tailwind,git,github,vercel,figma,docker,rust" alt="Technology stack">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,postgres,supabase,mongodb,tailwind,git,github,vercel,figma,docker,rust,go,java,cs,terraform,aws&perline=11" alt="gODtECH technology landscape" />
 </p>
 
 <table>
-<tr><th>Area</th><th>Tools & technologies</th></tr>
-<tr><td>Frontend</td><td>React, Next.js, TanStack, TypeScript, Tailwind CSS</td></tr>
-<tr><td>Backend</td><td>Node.js, Python, FastAPI, NestJS</td></tr>
-<tr><td>Data</td><td>PostgreSQL, Supabase, MongoDB, SQLite</td></tr>
-<tr><td>Infrastructure</td><td>Vercel, Docker, GitHub Actions, libvirt, virtual machines</td></tr>
-<tr><td>Product & design</td><td>Figma, product specifications, system architecture, UX flows</td></tr>
-<tr><td>Artificial Intelligence</td><td>AI-assisted workflows, research agents, content systems, intelligent operations</td></tr>
+<tr><th>Layer</th><th>Tools / focus</th></tr>
+<tr><td><strong>Product</strong></td><td>Discovery, requirements, roadmaps, prioritization, delivery, validation, product operations</td></tr>
+<tr><td><strong>Frontend</strong></td><td>TypeScript, JavaScript, React, Next.js, TanStack, Tailwind CSS</td></tr>
+<tr><td><strong>Backend</strong></td><td>Node.js, NestJS, Python, FastAPI, Go, Java, C#</td></tr>
+<tr><td><strong>Data</strong></td><td>PostgreSQL, Supabase, MongoDB, SQLite</td></tr>
+<tr><td><strong>Infrastructure</strong></td><td>Docker, Terraform, AWS, Vercel, GitHub Actions, virtual machines</td></tr>
+<tr><td><strong>AI systems</strong></td><td>AI-assisted development, agent workflows, research, governance, automation, verification</td></tr>
+<tr><td><strong>Design & collaboration</strong></td><td>Figma, product specifications, architecture documents, Git, GitHub</td></tr>
 </table>
 
 ---
 
-## 📈 GitHub at a glance
+## 📈 GitHub signal
 
 <div align="center">
 
@@ -136,77 +238,46 @@ That means:
 
 ```text
 NOW
-├── Product architecture and delivery
-├── Voice-first interfaces with SAYRR
-├── Financial workflow systems with MortgageOps
-├── Learning and career infrastructure with TechTrack
-├── Recruitment intelligence with Lead Engine
-├── AI-assisted internal operations with ABE TechLab Operations
-├── Cloud infrastructure foundations
-├── Waste2Work platform development
-└── Business email infrastructure with ABEmail Mail
+├── Build and validate StackPilot golden paths
+├── Turn gODtECH FORGE into a reusable engineering intelligence layer
+├── Harden live products and operating systems
+├── Continue SAYRR, MortgageOps and TechTrack product development
+├── Push developer experience, automation and infrastructure work deeper
+└── Keep converting experiments into measurable, usable systems
 
 NEXT
 ├── Production hardening
 ├── Better observability and testing
 ├── Stronger security boundaries
-├── Reusable product architecture patterns
-└── Turning validated experiments into independent products
+├── More reusable product + engineering patterns
+└── More public demos, documentation and independently useful tools
 ```
 
 ---
 
-## 📚 Selected documentation & product work
-
-A lot of the work behind these repositories lives in product specifications, architecture documents, technical decisions, roadmaps, testing plans, and implementation notes.
-
-<details>
-<summary><strong>Explore the way the projects are organized</strong></summary>
-
-```text
-Product
-├── Problem definition
-├── Product requirements
-├── User flows
-├── MVP scope
-└── Roadmap
-
-Technology
-├── Architecture
-├── Data model
-├── API contracts
-├── Security
-└── Deployment
-
-Execution
-├── GitHub Issues
-├── Branches / PRs
-├── CI validation
-├── Testing
-└── Release checks
-```
-
-</details>
-
----
-
-## 🤝 Connect
-
-I'm interested in conversations around **products, technology, systems, Artificial Intelligence (AI), infrastructure, and practical innovation**.
+## 🌐 Find the work
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gODtECH-Ctl-Create)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayo-richard-abe/)
+<a href="https://godtech-ctl-create.github.io/Ayo-Richard-ABE/"><img src="https://img.shields.io/badge/Portfolio-11110f?style=for-the-badge&logo=googlechrome&logoColor=b7ff3c" alt="Portfolio" /></a>
+<a href="https://github.com/gODtECH-Ctl-Create?tab=repositories"><img src="https://img.shields.io/badge/Repositories-11110f?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://www.linkedin.com/in/ayo-richard-abe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
+I’m interested in conversations around **products, developer systems, AI-assisted engineering, infrastructure, automation, and practical technology**.
+
 ---
 
 <div align="center">
 
-### Built with curiosity. Shipped with intent.
+### Build what matters. Simplify what gets in the way.
 
-_Keep building things that are useful._
+**Ayo Richard Abe · gODtECH**
+
+<sub>Product × Engineering × Systems</sub>
+
+<br /><br />
+<a href="#readme-top">↑ back to top</a>
 
 </div>
