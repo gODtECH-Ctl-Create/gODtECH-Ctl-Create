@@ -44,7 +44,52 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Point README to repository-hosted cards
+      - name: Make generated cards GitHub-profile safe
+        shell: bash
+        run: |
+          python <<'PY'
+          from pathlib import Path
+          import re
+
+          def make_static(path: str) -> None:
+              file = Path(path)
+              text = file.read_text(encoding="utf-8")
+
+              # GitHub does not support inline SVG scripting/animation in rendered README assets.
+              text = re.sub(
+                  r"<animate(?:Transform)?\b[^>]*/>",
+                  "",
+                  text,
+                  flags=re.IGNORECASE,
+              )
+              text = re.sub(
+                  r"<animate(?:Transform)?\b[^>]*>.*?</animate(?:Transform)?\s*>",
+                  "",
+                  text,
+                  flags=re.IGNORECASE | re.DOTALL,
+              )
+
+              # Disable CSS animation and reveal elements that were initially hidden for animation.
+              text = re.sub(
+                  r"animation\s*:\s*[^;{}]+;",
+                  "animation: none;",
+                  text,
+                  flags=re.IGNORECASE,
+              )
+              text = re.sub(
+                  r"(\.stagger\s*\{[^}]*?)opacity\s*:\s*0\s*;",
+                  r"\1opacity: 1;",
+                  text,
+                  flags=re.IGNORECASE | re.DOTALL,
+              )
+
+              file.write_text(text, encoding="utf-8")
+
+          make_static("stats.svg")
+          make_static("top-langs.svg")
+          PY
+
+      - name: Normalize README card URLs
         shell: bash
         run: |
           python <<'PY'
@@ -53,14 +98,19 @@ jobs:
           readme = Path("README.md")
           text = readme.read_text(encoding="utf-8")
 
-          text = text.replace(
-              'src="https://github-readme-stats.vercel.app/api?username=gODtECH-Ctl-Create&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"',
-              'src="./stats.svg"',
-          )
-          text = text.replace(
-              'src="https://github-readme-stats.vercel.app/api/top-langs/?username=gODtECH-Ctl-Create&layout=compact&hide_border=true&langs_count=8"',
-              'src="./top-langs.svg"',
-          )
+          replacements = {
+              'src="https://github-readme-stats.vercel.app/api?username=gODtECH-Ctl-Create&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"':
+                  'src="https://raw.githubusercontent.com/gODtECH-Ctl-Create/gODtECH-Ctl-Create/main/stats.svg"',
+              'src="https://github-readme-stats.vercel.app/api/top-langs/?username=gODtECH-Ctl-Create&layout=compact&hide_border=true&langs_count=8"':
+                  'src="https://raw.githubusercontent.com/gODtECH-Ctl-Create/gODtECH-Ctl-Create/main/top-langs.svg"',
+              'src="./stats.svg"':
+                  'src="https://raw.githubusercontent.com/gODtECH-Ctl-Create/gODtECH-Ctl-Create/main/stats.svg"',
+              'src="./top-langs.svg"':
+                  'src="https://raw.githubusercontent.com/gODtECH-Ctl-Create/gODtECH-Ctl-Create/main/top-langs.svg"',
+          }
+
+          for old, new in replacements.items():
+              text = text.replace(old, new)
 
           readme.write_text(text, encoding="utf-8")
           PY
