@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/profile-hero.gif" alt="Ayo Richard Abe gODtECH profile hero" width="100%" />
+<img src="https://raw.githubusercontent.com/gODtECH-Ctl-Create/gODtECH-Ctl-Create/main/assets/profile-hero.gif" alt="Ayo Richard Abe gODtECH profile hero" width="100%" />
 
 <p>
   <a href="https://godtech-ctl-create.github.io/Ayo-Richard-ABE/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-b7ff3c?style=for-the-badge&labelColor=11110f&color=b7ff3c" alt="Live portfolio" /></a>
@@ -78,7 +78,7 @@ EVIDENCE → ITERATION
 ## 🎛️ Project control board
 
 <div align="center">
-  <img src="./assets/project-control-board.svg" alt="gODtECH live project and developer build control board" width="100%" />
+  <img src="https://raw.githubusercontent.com/gODtECH-Ctl-Create/gODtECH-Ctl-Create/main/assets/project-control-board.svg" alt="gODtECH live project and developer build control board" width="100%" />
 </div>
 
 The portfolio is no longer one big list of experiments. Some products are **live and active**, while others are deliberately still in **building** mode.
@@ -248,8 +248,8 @@ This is also why so much of my work lives around **product specifications, archi
 
 <div align="center">
 
-<img src="./stats.svg" height="165" alt="GitHub statistics">
-<img src="./top-langs.svg" height="165" alt="Top languages">
+<img src="https://raw.githubusercontent.com/gODtECH-Ctl-Create/gODtECH-Ctl-Create/main/stats.svg" height="165" alt="GitHub statistics">
+<img src="https://raw.githubusercontent.com/gODtECH-Ctl-Create/gODtECH-Ctl-Create/main/top-langs.svg" height="165" alt="Top languages">
 
 </div>
 
@@ -266,7 +266,7 @@ This is also why so much of my work lives around **product specifications, archi
 ```text
 NOW
 ├── Continue evolving StackPilot golden paths
-├── Turn gODtECH FORGE into a reusable engineering intelligence layer
+├── Keep gODtECH FORGE strong as a reusable engineering intelligence layer
 ├── Keep gODtECH Steward strong on repository health and maintenance
 ├── Harden live products and operating systems
 ├── Continue SAYRR, MortgageOps and TechTrack product development
