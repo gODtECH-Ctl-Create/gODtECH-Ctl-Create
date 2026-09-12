@@ -2,18 +2,18 @@
 
 <div align="center">
 
-<img src="./assets/profile-hero.gif" alt="Ayo Richard Abe gODtECH profile hero" width="100%" />
+<img src="https://raw.githubusercontent.com/gODtECH-Ctl-Create/gODtECH-Ctl-Create/main/assets/profile-hero.gif" alt="Ayo Richard Abe gODtECH profile hero" width="100%" />
 
 <p>
   <a href="https://godtech-ctl-create.github.io/Ayo-Richard-ABE/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-b7ff3c?style=for-the-badge&labelColor=11110f&color=b7ff3c" alt="Live portfolio" /></a>
   <img src="https://img.shields.io/badge/LIVE_PRODUCTS-10-11110f?style=for-the-badge&labelColor=11110f&color=b7ff3c" alt="10 live products" />
-  <img src="https://img.shields.io/badge/DEV_BUILDS-2-11110f?style=for-the-badge&labelColor=11110f&color=8d91ff" alt="2 developer builds" />
+  <img src="https://img.shields.io/badge/DEV_SYSTEMS-3-11110f?style=for-the-badge&labelColor=11110f&color=8d91ff" alt="3 public developer systems" />
   <a href="https://www.linkedin.com/in/ayo-richard-abe/"><img src="https://img.shields.io/badge/LinkedIn-Ayo_Richard_Abe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ### Product Manager · Product Builder · Systems Thinker
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=700&color=B7FF3C&center=true&vCenter=true&width=1000&lines=I+build+products+that+make+difficult+work+feel+simpler.;Product+%E2%86%92+System+%E2%86%92+Evidence+%E2%86%92+Iteration;10+live+products+%7C+2+developer+systems+in+active+development;StackPilot+%7C+gODtECH+FORGE+%7C+AI-assisted+engineering" alt="Animated gODtECH profile focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=700&color=B7FF3C&center=true&vCenter=true&width=1000&lines=I+build+products+that+make+difficult+work+feel+simpler.;Product+%E2%86%92+System+%E2%86%92+Evidence+%E2%86%92+Iteration;10+live+products+%7C+3+public+developer+systems;StackPilot+%7C+gODtECH+FORGE+%7C+gODtECH+Steward+%7C+AI-assisted+engineering" alt="Animated gODtECH profile focus" />
 
 <p>
   <a href="#-project-control-board">Project board</a> ·
@@ -78,7 +78,7 @@ EVIDENCE → ITERATION
 ## 🎛️ Project control board
 
 <div align="center">
-  <img src="./assets/project-control-board.svg" alt="gODtECH live project and developer build control board" width="100%" />
+  <img src="https://raw.githubusercontent.com/gODtECH-Ctl-Create/gODtECH-Ctl-Create/main/assets/project-control-board.svg" alt="gODtECH live project and developer build control board" width="100%" />
 </div>
 
 The portfolio is no longer one big list of experiments. Some products are **live and active**, while others are deliberately still in **building** mode.
@@ -104,20 +104,21 @@ The portfolio is no longer one big list of experiments. Some products are **live
 
 ## 🧑‍💻 For developers
 
-Two of the projects receiving the most deliberate engineering attention are developer-facing systems.
+Three public developer systems now form the core of the engineering layer: one orchestrates the work, one scaffolds the project, and one keeps the repository healthy.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🧭 [StackPilot](https://github.com/gODtECH-Ctl-Create/StackPilot)
 
-<img src="https://img.shields.io/badge/STATE-BUILDING-8d91ff?style=flat-square&labelColor=11110f" alt="StackPilot building" />
+<img src="https://img.shields.io/badge/STATE-RELEASED-b7ff3c?style=flat-square&labelColor=11110f" alt="StackPilot released" />
+<img src="https://img.shields.io/badge/v0.1.2-8d91ff?style=flat-square&labelColor=11110f" alt="StackPilot version 0.1.2" />
 <img src="https://img.shields.io/badge/CORE-RUST-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
 
 **Opinionated project scaffolding for production-minded repositories.**
 
-StackPilot gives developers a deliberate golden path instead of hundreds of arbitrary combinations. Its validated backend paths currently cover **Rust/Axum, Go/Chi, TypeScript/NestJS, Python/FastAPI, Java/Spring Boot, and C#/ASP.NET Core**.
+StackPilot gives developers a deliberate golden path instead of hundreds of arbitrary combinations. Its validated backend paths cover **Rust/Axum, Go/Chi, TypeScript/NestJS, Python/FastAPI, Java/Spring Boot, and C#/ASP.NET Core**.
 
 ```text
 LANGUAGE
@@ -132,11 +133,12 @@ READY-TO-BUILD REPOSITORY
 [Explore StackPilot →](https://github.com/gODtECH-Ctl-Create/StackPilot)
 
 </td>
-<td width="50%" valign="top">
+<td width="34%" valign="top">
 
 ### ⚒️ [gODtECH FORGE](https://github.com/gODtECH-Ctl-Create/gODtECH-FORGE)
 
-<img src="https://img.shields.io/badge/STATE-BUILDING-7c3aed?style=flat-square&labelColor=11110f" alt="FORGE building" />
+<img src="https://img.shields.io/badge/STATE-RELEASED-b7ff3c?style=flat-square&labelColor=11110f" alt="FORGE released" />
+<img src="https://img.shields.io/badge/v0.6.0-7c3aed?style=flat-square&labelColor=11110f" alt="FORGE version 0.6.0" />
 <img src="https://img.shields.io/badge/AI-ENGINEERING-b7ff3c?style=flat-square&labelColor=11110f&color=b7ff3c" alt="AI engineering" />
 
 **Framework for Orchestrated Reasoning, Governance & Engineering.**
@@ -154,10 +156,35 @@ VERIFY → SHIP
 [Explore gODtECH FORGE →](https://github.com/gODtECH-Ctl-Create/gODtECH-FORGE)
 
 </td>
+<td width="33%" valign="top">
+
+### 🛡️ [gODtECH Steward](https://github.com/gODtECH-Ctl-Create/gODtECH-Steward)
+
+<img src="https://img.shields.io/badge/STATE-RELEASED-b7ff3c?style=flat-square&labelColor=11110f" alt="Steward released" />
+<img src="https://img.shields.io/badge/v0.1.0-8d91ff?style=flat-square&labelColor=11110f" alt="Steward version 0.1.0" />
+<img src="https://img.shields.io/badge/REPOSITORY-HEALTH-6f7269?style=flat-square&labelColor=11110f" alt="Repository health" />
+
+**Repository housekeeping and health for developer systems.**
+
+Steward scans repositories deterministically, reports health findings, verifies trusted external rule packs, and supports conservative maintenance without silently mixing its rules into the products it observes.
+
+```text
+SCAN
+  ↓
+FINDINGS
+  ↓
+VERIFY
+  ↓
+SAFE MAINTENANCE
+```
+
+[Explore gODtECH Steward →](https://github.com/gODtECH-Ctl-Create/gODtECH-Steward)
+
+</td>
 </tr>
 </table>
 
-Together they explore two sides of the same problem: **FORGE improves the intelligence around building; StackPilot reduces the mechanical setup required to start building.**
+Together they form a deliberate developer-tooling layer: **FORGE governs the engineering workflow; StackPilot scaffolds the project; Steward keeps the repository healthy.** They remain independent products with clear boundaries and public interfaces.
 
 <a href="#readme-top">↑ back to top</a>
 
@@ -221,8 +248,8 @@ This is also why so much of my work lives around **product specifications, archi
 
 <div align="center">
 
-<img src="./stats.svg" height="165" alt="GitHub statistics">
-<img src="./top-langs.svg" height="165" alt="Top languages">
+<img src="https://raw.githubusercontent.com/gODtECH-Ctl-Create/gODtECH-Ctl-Create/main/stats.svg" height="165" alt="GitHub statistics">
+<img src="https://raw.githubusercontent.com/gODtECH-Ctl-Create/gODtECH-Ctl-Create/main/top-langs.svg" height="165" alt="Top languages">
 
 </div>
 
@@ -238,8 +265,9 @@ This is also why so much of my work lives around **product specifications, archi
 
 ```text
 NOW
-├── Build and validate StackPilot golden paths
-├── Turn gODtECH FORGE into a reusable engineering intelligence layer
+├── Continue evolving StackPilot golden paths
+├── Keep gODtECH FORGE strong as a reusable engineering intelligence layer
+├── Keep gODtECH Steward strong on repository health and maintenance
 ├── Harden live products and operating systems
 ├── Continue SAYRR, MortgageOps and TechTrack product development
 ├── Push developer experience, automation and infrastructure work deeper
