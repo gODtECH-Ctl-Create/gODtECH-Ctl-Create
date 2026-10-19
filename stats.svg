@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ayo Richard ABE [gODtECH]&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits  : 2511, Total PRs: 327, Total Issues: 293, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  : 2544, Total PRs: 327, Total Issues: 293, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 93.6313651606564;
+        stroke-dashoffset: 93.50615326101673;
       }
     }
   
