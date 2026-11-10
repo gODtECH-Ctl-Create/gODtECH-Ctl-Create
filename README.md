@@ -73,15 +73,6 @@ EVIDENCE → ITERATION
 
 <a href="#readme-top">↑ back to top</a>
 
----
-
-## 🎛️ Project control board
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gODtECH-Ctl-Create/gODtECH-Ctl-Create/main/assets/project-control-board.svg" alt="gODtECH live project and developer build control board" width="100%" />
-</div>
-
-The portfolio is no longer one big list of experiments. Some products are **live and active**, while others are deliberately still in **building** mode.
 
 ### 🟢 Live / active
 
